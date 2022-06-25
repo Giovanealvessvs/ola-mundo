@@ -1,0 +1,1 @@
+- para abrir o arquivo hello-word basta acessar a pasta ola-mundo2
